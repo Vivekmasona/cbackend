@@ -2,7 +2,7 @@
   "name": "email_project",
   "version": "1.0.0",
   "description": "A project to send emails from a contact form",
-  "main": "src/server.js",
+  "main": "node/index.js",
   "scripts": {
     "start": "node src/server.js"
   },
